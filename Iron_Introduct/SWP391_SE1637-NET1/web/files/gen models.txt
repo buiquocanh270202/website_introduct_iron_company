@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "server=localhost; database=PE_PRN_Sum21;uid=sa;pwd=123456;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
